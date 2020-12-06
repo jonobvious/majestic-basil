@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: /images/dill-923154_1920.jpg
     content: >-
       # Real, beautiful plants right to your door
 
