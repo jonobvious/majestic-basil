@@ -14,7 +14,7 @@ sections:
     actions:
       - type: action
         template: action
-        title: Kõik tooted
+        title: Kõik Tooted
         url: /store
         arrow: true
   - type: featured_products_section
